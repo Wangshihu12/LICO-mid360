@@ -1,8 +1,8 @@
 # LICO-mid360 using for mid360, it's derived from Coco-LIC.
 
 * Now there has some imrpoved things:
-* Added rosbag function;
-* Added ikd-tree and ivox to manage local-map.
+* added rosbag function;
+* added ikd-tree and ivox to manage local-map.
 * pt2plane residual to gicp residual
 * add ground segmentation and closure opt based on KNN and voxel registration
 * fixed bug with velodyne lidar (for m2dgr)
